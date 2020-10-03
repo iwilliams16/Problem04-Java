@@ -3,7 +3,7 @@ package cd.get.ready.algorithms;
 import org.junit.Assert;
 import org.junit.Test;
 
-class DogWalkerTest {
+public class DogWalkerTest {
 
     @Test
     public void testOne(){
